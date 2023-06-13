@@ -32,6 +32,10 @@ Part 1
 - Identical Proteins page:
 - <https://www.ncbi.nlm.nih.gov/ipg/WP_063860797.1>
 
+### Additional Microbial Related Resources
+- NCBI SARS-CoV-2 Resources: <https://www.ncbi.nlm.nih.gov/sars-cov-2/>
+- NCBI Virus: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/
+- NCBI Outreach Events (videos that cover many NCBI resources: <https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/>
 
 Part 2
 -------
