@@ -6,7 +6,32 @@ Course-specific information:
 
 Part 1
 -------
--
+- <https://www.ncbi.nlm.nih.gov/>
+
+### BLASTN KPC-2 nucleotide sequence (AY034847.1) against KPC-3 carrying plasmid (CP074540.1)
+- <https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&BLAST_SPEC=&LINK_LOC=blasttab&LAST_PAGE=tblastn>
+- click the "Align two or more sequences" box.
+- enter AY034847.1 in the "Enter Query Sequence" window and CP074540.1 in the "Enter Query Sequence" window.
+
+### TBLASTN KPC-2 protein sequence (AAK70220.1) against KPC-3 carrying plasmid (CP074540.1)
+- <https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Translations&PROGRAM=tblastn&BLAST_PROGRAMS=tblastn&PAGE_TYPE=BlastSearch&BLAST_SPEC=blast2seq&DATABASE=n/a&QUERY=&SUBJECTS=>
+- click the "Align two or more sequences" box.
+- enter AAK70220.1 in the "Enter Query Sequence" window and CP074540.1 in the "Enter Query Sequence" window.
+
+### TBLASTN KPC-2 protein sequence (AAK70220.1) against KPC-2 carrying plasmid (MN842292.1)
+- <https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Translations&PROGRAM=tblastn&BLAST_PROGRAMS=tblastn&PAGE_TYPE=BlastSearch&BLAST_SPEC=blast2seq&DATABASE=n/a&QUERY=&SUBJECTS=>
+- click the "Align two or more sequences" box.
+- enter AAK70220.1 in the "Enter Query Sequence" window and MN842292.1 in the "Enter Query Sequence" window.
+- Note multiple hits; links out to GenBank display
+
+### Compare KPC-2 (AAK70220.1) to KPC-8 (ACI95258.1)
+- <https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins&PROGRAM=blastp&BLAST_PROGRAMS=blastp&PAGE_TYPE=BlastSearch&BLAST_SPEC=blast2seq&DATABASE=n/a&QUERY=&SUBJECTS=>
+- GenBank page for KPC-8: 
+- <https://www.ncbi.nlm.nih.gov/search/all/?term=ACI95258.1>
+- <https://www.ncbi.nlm.nih.gov/protein/WP_063860797.1>
+- Identical Proteins page:
+- <https://www.ncbi.nlm.nih.gov/ipg/WP_063860797.1>
+
 
 Part 2
 -------
