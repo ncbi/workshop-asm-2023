@@ -5,7 +5,7 @@ Accessing, exploring and using the publicly available databases and national seq
 Course-specific information:
 
 Part 1
--------
+========
 - <https://www.ncbi.nlm.nih.gov/>
 
 ### BLASTN KPC-2 nucleotide sequence (AY034847.1) against KPC-3 carrying plasmid (CP074540.1)
@@ -38,7 +38,7 @@ Part 1
 - NCBI Outreach Events (videos that cover many NCBI resources: <https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/>
 
 Part 2
--------
+=======
 
 - <https://www.ncbi.nlm.nih.gov/pathogens/>
 
