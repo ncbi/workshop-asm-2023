@@ -71,6 +71,16 @@ Part 2
     - Are there clinical cases linked?
     - What does the metadata look like (esp. isolation source, IFSAC category, collection date)?
 
+## Additional Resources
+
+- [NCBI Pathogen Detection Documentation](https://www.ncbi.nlm.nih.gov/pathogens/pathogens_help/)
+- [NCBI Minute: Introduction to NCBI Pathogen Detection and antimicrobial resistance data in Google BigQuery](https://ncbiinsights.ncbi.nlm.nih.gov/event/ncbi-pathogen-detection-in-cloud-03-2023/) - YouTube Video about accessing Pathogen Detection data on Google Cloud.
+- Our [How To page](https://www.ncbi.nlm.nih.gov/pathogens/docs/HowTo/) - Short PDFs with screen shots for how to do some simple tasks with our interface
+
+
+## Questions or comments
+
+Please email us at pd-help @ ncbi.nlm.nih.gov
 
 -----------------------------------------------------------------------------------------------
 This work was supported in part by the National Center for Biotechnology Information of the National Library of Medicine (NLM), National Institutes of Health, as well in part by the National Institute of Allergy and Infectious Diseases,
